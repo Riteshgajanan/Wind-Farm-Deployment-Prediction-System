@@ -1,6 +1,8 @@
 # Wind Farm Deployment Prediction System
 ## Machine Learning-Based Optimal Location Selection
 
+### 🌐 [**Open Live Website →**](https://windfarm-optimizer.onrender.com/)
+
 ---
 
 ## 📋 Project Overview
@@ -135,8 +137,6 @@ python 2_model_training.py
 ```powershell
 python 4_website.py
 ```
-
-Then open your browser and go to: **http://localhost:5000**
 
 ---
 
